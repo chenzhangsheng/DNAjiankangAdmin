@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/assets/js/jquery-ui-1.10.3.full.min.js,WebRoot/assets/js/flot/jquery.flot.resize.min.js,WebRoot/assets/js/jqGrid/jquery.jqGrid.min.js,WebRoot/assets/js/jquery-2.0.3.min.js,WebRoot/js/jquery-2.2.3.min.js,WebRoot/assets/js/jquery-1.10.2.min.js,WebRoot/assets/js/select2.min.js,WebRoot/js/jquery.nicescroll.min.js,WebRoot/angular/angular.js,WebRoot/js/jquery.magnific-popup.js,WebRoot/assets/js/date-time/moment.min.js,WebRoot/assets/js/flot/jquery.flot.min.js,WebRoot/angular/angular-ui-router.js,WebRoot/js/lightbox-plus-jquery.min.js
+validator.Unchecked=
